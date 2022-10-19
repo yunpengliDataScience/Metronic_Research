@@ -36,6 +36,8 @@ C:\Software\node-v16.18.0-win-x64\npm config set python C:\Python27
 
 //C:\Software\node-v16.18.0-win-x64\npm install --global windows-build-tools
 
+// To solve: gyp ERR! stack Error: `C:\Windows\Microsoft.NET\Framework\v4.0.30319\msbuild.exe` failed with exit code: 1
+
 C:\Software\node-v16.18.0-win-x64\npm install -global --production windows-build-tools
 
 C:\Software\node-v16.18.0-win-x64\yarn global add windows-build-tools
