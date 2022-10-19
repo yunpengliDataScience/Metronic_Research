@@ -6,7 +6,8 @@ npm@1.3.21 C:\Program Files\nodejs\node_modules\npm
 New
 -----------------------------------------------------------
 Download Nodejs zip at https://nodejs.org/en/download/
-NPM at: C:\Software\node-v16.18.0-win-x64\
+
+NPM is at: C:\Software\node-v16.18.0-win-x64\
 
 C:\Software\node-v16.18.0-win-x64\npm config set strict-ssl false
 
