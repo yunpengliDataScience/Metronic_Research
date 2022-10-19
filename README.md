@@ -29,7 +29,8 @@ cd C:\Projects\Metronic\metronic_v6.1.8\theme\default\demo1\tools
 
 C:\Software\node-v16.18.0-win-x64\yarn
 
-C:\Software\node-v16.18.0-win-x64\npm run build
+C:\Software\node-v16.18.0-win-x64\npm run build  --prod
+
 -------------------------------------------------------
 C:\Software\node-v16.18.0-win-x64\npm config set python C:\Python27
 
